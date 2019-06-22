@@ -1,0 +1,5 @@
+@echo off
+
+osk
+
+exit
